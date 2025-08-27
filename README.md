@@ -1,9 +1,4 @@
-Perfect idea 🚀 — a **README.md** file is essential for your GitHub project.
-Here’s a complete, polished **README.md** for your **Customer Insurance Purchase Prediction Project**:
 
----
-
-```markdown
 # 🧠 Customer Insurance Purchase Prediction
 
 This project predicts whether a customer will purchase health insurance based on their **Age** and **Estimated Salary** using multiple **Machine Learning algorithms**.  
