@@ -1,0 +1,9 @@
+Scenario,Age,EstimatedSalary_original,ImputedSalary,PredictedPurchased,PurchaseProb
+"Age 30, Salary 87000",30,87000.0,87000.0,0,0.0
+"Age 40, No Salary",40,,71000.0,0,0.0
+"Age 40, Salary 100000",40,100000.0,100000.0,1,1.0
+"Age 50, No Salary",50,,71000.0,1,0.5714285714285714
+"Age 18, No Salary",18,,71000.0,0,0.0
+"Age 22, Salary 600000",22,600000.0,600000.0,1,1.0
+"Age 35, Salary 2500000",35,2500000.0,2500000.0,1,1.0
+"Age 60, Salary 100000000",60,100000000.0,100000000.0,1,1.0

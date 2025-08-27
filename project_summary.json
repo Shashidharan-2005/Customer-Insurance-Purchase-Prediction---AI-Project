@@ -1,0 +1,15 @@
+{
+  "best_model": "KNN",
+  "best_params": "KNeighborsClassifier()",
+  "metrics_top": {
+    "Model": "KNN",
+    "BestParams": {
+      "n_neighbors": 7
+    },
+    "Accuracy": 0.92,
+    "Precision": 0.8888888888888888,
+    "Recall": 0.8888888888888888,
+    "F1": 0.8888888888888888,
+    "ROC_AUC": 0.9364149305555556
+  }
+}
